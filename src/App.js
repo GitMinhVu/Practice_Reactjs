@@ -6,7 +6,6 @@ const App = () => {
   return (
     <Fragment>
       <Header />
-      <p>First page</p>
       <Todos />
     </Fragment>
   
